@@ -1,5 +1,4 @@
-# fave-resources
-A list of my favorite web development resources
+# A list of my favorite web development resources
 
 * [Front-End Developer Handbook 2017](https://github.com/FrontendMasters/front-end-handbook-2017) by [Cody Lindley](http://codylindley.com/)
 * [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) by [David Dias](http://daviddias.me/)
