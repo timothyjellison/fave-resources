@@ -8,6 +8,7 @@
 * [SMACSS](https://smacss.com/) - my preferred CSS file organization convention
 
 ## Helpful Extras
+* [Contrast Ratio](http://leaverou.github.io/contrast-ratio/) tool by [Lea Verou](http://lea.verou.me/)
 * [Google Fonts](https://fonts.google.com/)
 * [Adobe Color CC](https://color.adobe.com) - color scheme generation tools
 * [Unsplash](https://unsplash.com/) - free stock photography
