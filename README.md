@@ -1,11 +1,13 @@
 # A list of my favorite web development resources
 
-## First Principles
+## Fundamentals
 * [Front-End Developer Handbook 2017](https://github.com/FrontendMasters/front-end-handbook-2017) by [Cody Lindley](http://codylindley.com/) - a  birdseye view of the knowledge and practices that make up a successful career in web development
 * [HTML5 Boilerplate](https://html5boilerplate.com/) - a useful resource, sure, but more importantly you can learn *so much* about how the web works by [reading through the source](https://github.com/h5bp/html5-boilerplate/tree/master/src) and reading up on any terms you don't know
 * [Front-End Checklist](https://github.com/thedaviddias/Front-End-Checklist) by [David Dias](http://daviddias.me/) - a great guide for tightening up your code
 * [BEM](http://getbem.com/) - my preferred CSS selector naming convention
 * [SMACSS](https://smacss.com/) - my preferred CSS file organization convention
+* [Fluid Typography](https://css-tricks.com/snippets/css/fluid-typography/)
+* [3 Easy Performance Wins](https://una.im/perf-design-wins/) by [Una Kravets](http://unakravets.com/) 
 
 ## Helpful Extras
 * [Contrast Ratio](http://leaverou.github.io/contrast-ratio/) tool by [Lea Verou](http://lea.verou.me/)
