@@ -1,4 +1,4 @@
-#A list of my favorite web development resources
+# A list of my favorite web development resources
 
 ## First Principles
 * [Front-End Developer Handbook 2017](https://github.com/FrontendMasters/front-end-handbook-2017) by [Cody Lindley](http://codylindley.com/) - a  birdseye view of the knowledge and practices that make up a successful career in web development
