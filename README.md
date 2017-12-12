@@ -1,5 +1,3 @@
-# A list of my favorite web development resources
-
 ## First Principles
 * [Front-End Developer Handbook 2017](https://github.com/FrontendMasters/front-end-handbook-2017) by [Cody Lindley](http://codylindley.com/) - a  birdseye view of the knowledge and practices that make up a successful career in web development
 * [HTML5 Boilerplate](https://html5boilerplate.com/) - a useful resource, sure, but more importantly you can learn *so much* about how the web works by [reading through the source](https://github.com/h5bp/html5-boilerplate/tree/master/src) and reading up on any terms you don't know
