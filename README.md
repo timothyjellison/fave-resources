@@ -9,12 +9,22 @@
 * [Fluid Typography](https://css-tricks.com/snippets/css/fluid-typography/)
 * [3 Easy Performance Wins](https://una.im/perf-design-wins/) by [Una Kravets](http://unakravets.com/) 
 
-## Helpful Extras
+## Services
+* [Cloudinary](https://cloudinary.com/) - asset hosting with helpful image / video manipulation tools
+* [Heroku](https://www.heroku.com/) - easy and affordable platform as a service
+* [mLab](https://mlab.com/) - MongoDB hosting
+* [AWS](https://aws.amazon.com/) - too much good stuff
+* [Firebase](https://firebase.google.com/) - go "serverless"
+
+## Tools & Tips
 * [Contrast Ratio](http://leaverou.github.io/contrast-ratio/) tool by [Lea Verou](http://lea.verou.me/)
 * [Google Fonts](https://fonts.google.com/)
 * [Adobe Color CC](https://color.adobe.com) - color scheme generation tools
 * [Unsplash](https://unsplash.com/) - free stock photography
 * [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) by [Adam Pritchard](https://github.com/adam-p)
+* [plain js](https://plainjs.com/) - collection of JavaScript libraries with no jQuery dependency
+* [You Might Not Need jQuery](http://youmightnotneedjquery.com/) - list of jQuery functions that can easily be replaced with plain JavaScript
+* [jQuery](https://jquery.com/) - because sometimes it's OK to use jQuery 
 
 ## Blogs
 * [CSS-Tricks](https://css-tricks.com/)
