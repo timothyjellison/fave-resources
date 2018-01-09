@@ -39,6 +39,7 @@
 * [Syntax.](https://syntax.fm/) with [Wes Bos](http://wesbos.com/) and [Scott Tolinski](http://scotttolinski.com/)
 
 ## Services
+* [Codepen](https://codepen.io) - the only social network you need
 * [Cloudinary](https://cloudinary.com/) - asset hosting with helpful image / video manipulation tools
 * [Heroku](https://www.heroku.com/) - easy and affordable platform as a service
 * [mLab](https://mlab.com/) - MongoDB hosting
